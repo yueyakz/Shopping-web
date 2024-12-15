@@ -71,6 +71,49 @@ li{
     background-color: transparent;
     color: darkcyan;
 }
+/* Home Page */
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: azure;
+    font-family: 'Raleway', sans-serif;
+}
+.right{
+    margin-right: 10%;
+}
+.maintitle{
+    font-size: 70px;
+    color: lightcoral;
+    margin-bottom: 20px;
+}
+span{
+    color: darkcyan;
+}
+.right p{
+    color: darkcyan;
+    font-size: 15px;
+    line-height: 26px;
+}
+.btn{
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px 30px;
+    margin-top: 30px;
+    display: inline-block;
+    border: 2px solid darkcyan;
+    color: darkcyan;
+    border-radius: 5px;
+    transition: all 0.3s linear;
+}
+.btn:hover{
+    border: 2px solid lightcoral;
+    background-color: lightcoral;
+    color: white;
+}
+img{
+    width: 570px;
+}
 /* footer start here */
 footer{
     font-family: 'Poppins',sans-serif;

@@ -71,3 +71,11 @@ li{
     background-color: transparent;
     color: darkcyan;
 }
+/* footer start here */
+footer{
+    font-family: 'Poppins',sans-serif;
+    padding: 20px;
+    width: 100%;
+    background-color: blanchedalmond;
+    text-align: center;
+}
